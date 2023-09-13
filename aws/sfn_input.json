@@ -1,0 +1,7 @@
+{
+   "waitSeconds":10,
+   "preference":"both",
+   "message":"Hello World, this works!",
+   "email":"hp_bonfim@hotmail.com",
+   "phone":"+5511987654321"
+}

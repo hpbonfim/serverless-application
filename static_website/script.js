@@ -2,7 +2,7 @@
 // It should look something like this:
 // https://example1a2s3d.execute-api.us-east-1.amazonaws.com/prod/reminders
 
-let API_ENDPOINT = 'INVOKE_URL_ENDPOINT/reminders'
+let API_ENDPOINT = 'https://ataodmhwtl.execute-api.us-east-1.amazonaws.com/production/reminders'
 
 // Setup divs that will be used to display interactive messages
 let errorDiv = document.getElementById('error-message')
